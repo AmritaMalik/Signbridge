@@ -103,7 +103,14 @@ The main objective of SignBridge AI is to create an affordable and intelligent c
 
 ## Developer
 
-Amrita Malik
+This project was developed by:
 
-B.Tech Computer Science Engineering Student  
-AI and Accessibility Technology Enthusiast
+- Amrita Malik
+- Aashish
+- Angel
+- Mahak
+- Vansh
+
+## Team: THE Lannisters
+
+Together, we worked on AI model development, hardware integration, UI/UX design, research, and prototyping of SignBridge AI.
