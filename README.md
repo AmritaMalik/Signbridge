@@ -114,3 +114,5 @@ This project was developed by:
 ## Team: THE Lannisters
 
 Together, we worked on AI model development, hardware integration, UI/UX design, research, and prototyping of SignBridge AI.
+## Live Link 
+https://signbridge-blond.vercel.app/
